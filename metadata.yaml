@@ -24,6 +24,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Laurence_Janifer
 description: Sometimes the very best thing you can do is to lose. The cholera germ,
   for instance, asks nothing better than that it be swallowed alive ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30259#The-Man-Who-Played-to-Lose
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-10-15'
 gutenberg_type: Text
